@@ -21,7 +21,7 @@ Unzipped Arduino IDE folder with Arduino application highlighted
 Start the Arduino IDE application that you downloaded in the previous step.
 
 <h3 align="center">Open Preferences Dialog box</h3>
-From the top menu of the Arduino IDE application, select File → Preferences to open the Preferences dialog box.
+From the top menu of the Arduino IDE application,<b> select File → Preferences to open the Preferences dialog box.</b>
 
 Paste the following in the Additional Boards Manager URLs: box of the Preferences dialog box.
 <pre>
@@ -36,7 +36,7 @@ Additional Boards Manager URLs field of the Arduino IDE Preferences dialog box
 Click the OK button to close the dialog box.
 
 Open Boards Manager Dialog Box
-In the Arduino IDE, use the top menu to navigate to Tools → Board → Boards Manager... to open the Boards Manager dialog box.
+In the Arduino IDE, use the top menu to navigate to <b>Tools → Board → Boards Manager... </b>to open the Boards Manager dialog box.
 
 Type Digispark into the search field at the top of the Boards Manager dialog box that contains the text "Filter your search..." to easily find the Digispark package.
 
